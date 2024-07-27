@@ -48,7 +48,7 @@ public class CharacterCountDemo {
         Map<String, Long> map2 = input.codePoints()
                 .mapToObj(Character::toString)
                 .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
-        System.out.println(map2);
+        System.out.println(map2); // {a=2, r=1, s=1, t=1, e=2, V=1, w=1, k=1, n=1}
 
     }
 
