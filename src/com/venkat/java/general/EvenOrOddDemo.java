@@ -7,6 +7,8 @@ public class EvenOrOddDemo {
             System.out.println("even");
         }else{
             System.out.println("odd");
+
+
         }
     }
 }
