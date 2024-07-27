@@ -1,9 +1,9 @@
 package com.venkat.java.general;
-/*      *
-        * *
-        * * *
-        * * * *
-        * * * * *
+/*       *
+       * *
+     * * *
+   * * * *
+ * * * * *
  */
 public class LeftTrianglePatternDemo {
     public static void main(String[] args) {
